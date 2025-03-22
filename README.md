@@ -1,6 +1,8 @@
 👋 Hi, I’m @Tom-FelixBerger
 
-👀 I’m excited about AI alignment and particularly interested in the mitigation of deception by LLMs.
+📊 Working Student in Data Science.
+👀 Philosopher excited about AI alignment, in particularl mitigation of deception by LLMs.
+🐒 I work on evolutionary game theory and the evolution of morality.
 
 📫 Reach me at: tom-felix.berger@gmx.de
 
