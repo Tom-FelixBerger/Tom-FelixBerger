@@ -2,11 +2,11 @@
 
 ____________________________________________________________________________________________
 
-📊 Working Student in Data Science.
+📊 I'm Master Student in Data Science, also I studied Maths (B.A.) and Philosophy (M.A.)
 
-👀 Philosopher excited about AI alignment, in particular mitigation of deception by LLMs.
+👀 I'm excited about AI alignment, in particular mitigation of deception by LLMs.
 
-🐒 I work on evolutionary game theory and the evolution of morality.
+🐒 I also work on game theoretic models of the evolution of morality.
 
 ____________________________________________________________________________________________
 
