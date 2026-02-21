@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 📫 Reach me at: tom-felix.berger@ruhr-uni-bochum.de
 
-🌐 My webpage: https://tfberger.github.io
+🌐 My webpage: https://tom-felixberger.github.io
 
 <!---
 Tom-FelixBerger/Tom-FelixBerger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
